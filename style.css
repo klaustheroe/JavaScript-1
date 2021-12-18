@@ -1,0 +1,27 @@
+*{
+  text-align: center;
+  color: #ffe8d6;
+  font-family: 'Montserrat', sans-serif;
+  word-spacing: 5px;
+  margin: 50px;
+}
+
+.date{
+  display: inline;
+  margin: 1px;
+  font-size: 5EM;
+}
+
+#username{
+  font-style: bold;
+}
+
+#inner-un{
+  display: inline; 
+  margin: 0;
+}
+
+#inner-un2{
+  display: inline; 
+  margin: 0;
+}
